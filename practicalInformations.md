@@ -11,7 +11,7 @@ permalink: /practicalInformations/
 
 The **8th Junior Conference on Wireless and Optical Communications (JWOC 2026)** will take place on **2 October 2026**.
 
-- TODO: confirm the 2026 venue name
+- **Venue:** Telecom Paris
 - TODO: confirm the 2026 venue address
 - TODO: add maps and directions links
 

@@ -7,9 +7,9 @@ permalink: /registration/
 
 ## Registration
 
-Registration information for JWOC 2026 is TODO.
+Please use the link below for JWOC 2026 submission / registration:
 
-- TODO: add the 2026 registration form link
+- [OpenReview JWOC 2026 Conference](https://openreview.net/group?id=JWOC/2026/Conference)
 - TODO: add the 2026 registration deadline
 - TODO: add the organiser contact email
 
