@@ -1,7 +1,7 @@
 # JWOC 2026 initial template
 # --- Site basics ---
 title: "Junior Conference on Wireless and Optical Communications (JWOC)"
-description: "JWOC 2026, the 8th Junior Conference on Wireless and Optical Communications, held on 2 October 2026 at Telecom Paris."
+description: "JWOC 2026, the 8th Junior Conference on Wireless and Optical Communications, held on 2 October 2026 at Télécom Paris."
 url: "https://lemonstudy.github.io"   # TODO: update if the 2026 site moves to a custom domain or organization site
 baseurl: "/jwoc-2026.github.io"       # GitHub Pages project site path
 
