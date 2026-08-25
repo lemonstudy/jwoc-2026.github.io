@@ -30,7 +30,7 @@ JWOC offers a unique opportunity for students from **Université Paris-Saclay** 
 
 ## Important Dates
 
-- Paper Submission: **~~August 25, 2026~~** **Extended:** **August 31, 2026, at 23:59 GMT (2:00 a.m. in Paris)** - [Submit via OpenReview](https://openreview.net/group?id=JWOC/2026/Conference)
+- Paper Submission: ~~August 25, 2026~~ **Extended:** **August 31, 2026, at 23:59 GMT (2:00 a.m. in Paris)** - [submit here](https://openreview.net/group?id=JWOC/2026/Conference)
 - Acceptance Notification: **11 September 2026**
 - Registration: [Register here](https://admin-sphinx.universite-paris-saclay.fr/v4/s/GrLVuzOzZH) before **September 25, 2026**
 - **Conference:** **2 October 2026**
@@ -42,8 +42,8 @@ _Times are shown in the time zone stated for each deadline._
 
 ## Keynotes
 
-- To be scheduled soon: confirmed 2026 keynote speaker name, affiliation, and talk title
-- To be scheduled soon: confirmed 2026 keynote speaker name, affiliation, and talk title
+- To be scheduled soon
+- To be scheduled soon
 
 More information about the speakers is available [here]({{ "/speakers/" | relative_url }}).
 

@@ -9,9 +9,7 @@ permalink: /registration/
 
 Please complete the registration form using the link below:
 
-- [Registration Form](https://admin-sphinx.universite-paris-saclay.fr/v4/s/GrLVuzOzZH)
-- Registration deadline: **September 25, 2026**
-- Organiser contact email: To be scheduled soon
+📝 [**Registration Form**](https://admin-sphinx.universite-paris-saclay.fr/v4/s/GrLVuzOzZH)
 
 ---
 
