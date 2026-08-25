@@ -7,24 +7,24 @@ permalink: /speakers/
 
 ## Keynotes
 
-The JWOC 2026 keynote program is TODO.
+The JWOC 2026 keynote program is to be scheduled soon.
 
-### TODO: Keynote Speaker 1 {#keynote-speaker-1}
-*TODO: affiliation and role*
+### To be scheduled soon: Keynote Speaker 1 {#keynote-speaker-1}
+*To be scheduled soon: affiliation and role*
 
-**Title:** TODO
+**Title:** To be scheduled soon
 
-**Abstract:** TODO
+**Abstract:** To be scheduled soon
 
-**Biography:** TODO
+**Biography:** To be scheduled soon
 
-### TODO: Keynote Speaker 2 {#keynote-speaker-2}
-*TODO: affiliation and role*
+### To be scheduled soon: Keynote Speaker 2 {#keynote-speaker-2}
+*To be scheduled soon: affiliation and role*
 
-**Title:** TODO
+**Title:** To be scheduled soon
 
-**Abstract:** TODO
+**Abstract:** To be scheduled soon
 
-**Biography:** TODO
+**Biography:** To be scheduled soon
 
 ---

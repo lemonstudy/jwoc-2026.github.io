@@ -5,15 +5,15 @@ description: JWOC 2026
 permalink: /program-table/
 ---
 
-### Program (TODO) - 2 October 2026
+### Program (To be scheduled soon) - **2 October 2026**
 
 | Time  | Event |
 |-------|-------|
-| **TODO** | Welcome coffee |
-| **TODO** | Opening and welcome remarks |
-| **TODO - Keynote** | TODO: add confirmed 2026 keynote speaker, affiliation, talk title, and details link |
-| **TODO - Morning Session** | TODO: add confirmed 2026 presentation titles and authors |
-| **TODO** | Lunch |
-| **TODO - Keynote** | TODO: add confirmed 2026 keynote speaker, affiliation, talk title, and details link |
-| **TODO - Afternoon Session** | TODO: add confirmed 2026 presentation titles and authors |
-| **TODO** | Coffee break and best presentation award |
+| **To be scheduled soon** | Welcome coffee |
+| **To be scheduled soon** | Opening and welcome remarks |
+| **To be scheduled soon - Keynote** | To be scheduled soon: confirmed 2026 keynote speaker, affiliation, talk title, and details link |
+| **To be scheduled soon - Morning Session** | To be scheduled soon: confirmed 2026 presentation titles and authors |
+| **To be scheduled soon** | Lunch |
+| **To be scheduled soon - Keynote** | To be scheduled soon: confirmed 2026 keynote speaker, affiliation, talk title, and details link |
+| **To be scheduled soon - Afternoon Session** | To be scheduled soon: confirmed 2026 presentation titles and authors |
+| **To be scheduled soon** | Coffee break and best presentation award |
