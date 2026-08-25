@@ -8,12 +8,12 @@ permalink: /callPapers/
 <!-- ## Important Dates -->
 <h2 style="color:#c0392b;">Important Dates</h2>
 
-* Paper Submission: 25 August 2026, <a href="https://openreview.net/group?id=JWOC/2026/Conference">(submit via OpenReview)</a>
+* Paper Submission: August 31, 2026, at 23:59 GMT (2:00 a.m. in Paris), <a href="https://openreview.net/group?id=JWOC/2026/Conference">(submit via OpenReview)</a>
 * Acceptance Notification: 11 September 2026
-* Registration: <a href="https://openreview.net/group?id=JWOC/2026/Conference">(OpenReview JWOC 2026 Conference)</a>
+* Registration: TODO
 * **Conference: 2 October 2026**
 
-All deadlines are 23:59 AoE (UTC-12)
+Times are shown in the time zone stated for each deadline.
 
 ## Call for Papers
 
@@ -25,4 +25,4 @@ JWOC offers a unique opportunity for students from Université Paris-Saclay and 
 
 Submissions are in English, in the form of an extended abstract describing new or preliminary results of the authors' scientific work, up to 3 pages including an abstract, a list of keywords, and references. They must be in PDF and adopt the style of the IEEE Publications format. The extended abstracts will be reviewed by the senior and junior program committees.
 
-Click [here](https://openreview.net/group?id=JWOC/2026/Conference) to submit or register.
+Click [here](https://openreview.net/group?id=JWOC/2026/Conference) to submit a paper.

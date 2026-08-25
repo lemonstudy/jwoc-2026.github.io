@@ -6,7 +6,7 @@ The **8th Junior Conference on Wireless and Optical Communications (JWOC 2026)**
 
 - **Date:** 2 October 2026
 - **Location:** Telecom Paris
-- **Submission / Registration:** [OpenReview JWOC 2026 Conference](https://openreview.net/group?id=JWOC/2026/Conference)
+- **Registration:** TODO
 - **Program:** [here]({{ "/program/" | relative_url }})
 
 JWOC offers a unique opportunity for students from **Université Paris-Saclay** and **Institut Polytechnique de Paris** to share their research findings in networking, wireless, and optical communications. It also represents an excellent opportunity to expand professional networking and enhance research presentation skills.
@@ -30,13 +30,13 @@ JWOC offers a unique opportunity for students from **Université Paris-Saclay** 
 
 ## Important Dates
 
-- Paper Submission: 25 August 2026 - [Submit via OpenReview](https://openreview.net/group?id=JWOC/2026/Conference)
+- Paper Submission: August 31, 2026, at 23:59 GMT (2:00 a.m. in Paris) - [Submit via OpenReview](https://openreview.net/group?id=JWOC/2026/Conference)
 - Acceptance Notification: 11 September 2026
-- Registration Deadline: TODO
+- Registration: TODO
 - **Conference:** 2 October 2026
 - Location: Telecom Paris
 
-_All deadlines are 23:59 AoE (UTC-12)._
+_Times are shown in the time zone stated for each deadline._
 
 ---
 
