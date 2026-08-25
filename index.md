@@ -1,6 +1,6 @@
 ---
 layout: default
 title: Junior Conference on Wireless and Optical Communication (JWOC)
-description: JWOC 2025, held on the 3rd of October 2025, at Télécom Paris.
+description: JWOC 2026 initial website template. Dates, venue, speakers, and committees are TODO.
 ---
 {% include_relative README.md %}

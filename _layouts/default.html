@@ -28,27 +28,29 @@
     </header>
 
     <nav id="menu">
+      <input type="checkbox" id="menu-toggle" aria-label="Toggle navigation">
+      <label for="menu-toggle"></label>
       <ul>
         <li><a href="{{ '/' | relative_url }}">General Information</a></li>
-        <li><a href="{{ '/callPapers' | relative_url }}">Call for Papers</a></li>
+        <li><a href="{{ '/callPapers/' | relative_url }}">Call for Papers</a></li>
     
         <li>
           <a class="dropdown-arrow" href="#" onclick="return false;" aria-haspopup="true" aria-expanded="false">Program</a>
           <ul class="sub-menus">
-            <li><a href="{{ '/speakers' | relative_url }}">Keynotes</a></li>
-            <li><a href="{{ '/program' | relative_url }}">Program</a></li>
+            <li><a href="{{ '/speakers/' | relative_url }}">Keynotes</a></li>
+            <li><a href="{{ '/program/' | relative_url }}">Program</a></li>
           </ul>
         </li>
     
         <li>
           <a class="dropdown-arrow" href="#" onclick="return false;" aria-haspopup="true" aria-expanded="false">Conference Venue</a>
           <ul class="sub-menus">
-            <li><a href="{{ '/registration' | relative_url }}">Registration</a></li>
-            <li><a href="{{ '/practicalInformations' | relative_url }}">Practical Information</a></li>
+            <li><a href="{{ '/registration/' | relative_url }}">Registration</a></li>
+            <li><a href="{{ '/practicalInformations/' | relative_url }}">Practical Information</a></li>
           </ul>
         </li>
     
-        <li><a href="{{ '/organisation' | relative_url }}">Organisation Committee</a></li>
+        <li><a href="{{ '/organisation/' | relative_url }}">Organisation Committee</a></li>
       </ul>
     </nav>
     

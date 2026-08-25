@@ -1,17 +1,17 @@
+---
+layout: default
+title: Organisation Committee
+description: JWOC 2026
+permalink: /organisation/
+---
+
 ## Organisation Committee
 
 ### Junior Committee
-- **Oumaïma Bounhar**, *Télécom Paris, Institut Polytechnique de Paris*
-- **Lucas Foissey**, *Université d'Évry Paris-Saclay*
-- **Nicolas Le Gouic**, *Télécom Paris, Institut Polytechnique de Paris*
-- **Diane Prato**, *Télécom Paris, Institut Polytechnique de Paris*
-- **Ambashri Purkayastha**, *Télécom Paris, Institut Polytechnique de Paris*
+- TODO: add confirmed 2026 junior committee members
 
 ### Senior Committee
-- **Cédric Adjih**, *Inria*
-- **Juan Rafael Alvarez**, *Télécom Paris, Institut Polytechnique de Paris*
-- **Michel Kieffer**, *Université Paris-Saclay*
-- **Marwane Rezzouki**, *Université Paris-Saclay*
+- TODO: add confirmed 2026 senior committee members
 
 ### Local Arrangement
-- **Marie Laveau**, *Université Paris-Saclay*
+- TODO: add confirmed 2026 local arrangement contacts

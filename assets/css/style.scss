@@ -5,19 +5,10 @@
 
 .page-header {
   background-image: url("../../Images/JWOC_banner_5.png");
-  //background-size: cover; // Ensures the entire image is visible
   background-repeat: no-repeat; // Prevents the image from repeating
   background-position: center; // Centers the image
-  // CedricA: commented out:
-  //width: 100vw; // Full width of the viewport
-  //height: 100vh; // One-third of the viewport height
-  // CedricA: llm suggested changes: "Your CSS is literally telling the header to fill 100% of the viewport height: [...] To make it much smaller, just replace that 100vh with whatever works for you: [...] Maintain an aspect ratio (so it scales nicely on wide vs. tall screens)"
   width: 100%;
   aspect-ratio: 16 / 5;   /* e.g. a wide banner (adjust ratio as desired) */
-  //background-size: cover;
-  /* remove any height/width rules that conflict */
- /* force the background to be exactly the full width,
-     height will adjust automatically so the whole image is shown */
   background-size: 100% auto;
 }
 

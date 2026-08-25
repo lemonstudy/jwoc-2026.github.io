@@ -1,9 +1,18 @@
+---
+layout: default
+title: Registration
+description: JWOC 2026
+permalink: /registration/
+---
+
 ## Registration
 
-Please complete the registration form using the link below:
+Registration information for JWOC 2026 is TODO.
 
-👉 [**Registration Form**](https://admin-sphinx.universite-paris-saclay.fr/v4/s/gdoe1t)
+- TODO: add the 2026 registration form link
+- TODO: add the 2026 registration deadline
+- TODO: add the organiser contact email
 
 ---
 
-If you encounter any issues with registration, please contact the organisers  <!-- replace with real email -->
+If you encounter any issues with registration, please contact the organisers. <!-- TODO: replace with real email -->

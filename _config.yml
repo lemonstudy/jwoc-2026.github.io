@@ -1,9 +1,9 @@
-# [CA: sept 2025 - version cleaned by LLM:]
+# JWOC 2026 initial template
 # --- Site basics ---
 title: "Junior Conference on Wireless and Optical Communication (JWOC)"
-description: "JWOC 2025, held on the 3rd of October 2025, at Télécom Paris."
-url: "https://jwoc-2025.github.io"   # no trailing slash
-baseurl: ""                          # for project site at the root; set to "/<repo>" if needed
+description: "JWOC 2026 initial website template. Dates, venue, speakers, and committees are TODO."
+url: "https://lemonstudy.github.io"   # TODO: update if the 2026 site moves to a custom domain or organization site
+baseurl: "/jwoc-2026.github.io"       # GitHub Pages project site path
 
 # --- Theme & plugins (GitHub Pages compatible) ---
 remote_theme: pages-themes/cayman@v0.2.0

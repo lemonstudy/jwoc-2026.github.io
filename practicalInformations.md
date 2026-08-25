@@ -1,12 +1,16 @@
+---
+layout: default
+title: Practical Information
+description: JWOC 2026
+permalink: /practicalInformations/
+---
+
 ## Practical Information
 
 ### Conference Venue
 
-The **Junior Conference on Wireless and Optical Communication (JWOC 2025)** will take place on **3 October 2025** at:
+The **Junior Conference on Wireless and Optical Communication (JWOC 2026)** venue and date are TODO.
 
-📍 **Télécom Paris**  
-19 place Marguerite Perey  
-91120 Palaiseau, France  
-
-- [Maps & Directions — Télécom Paris](https://www.telecom-paris.fr/en/campus/life/maps-directions)  
-- [📌 View on Google Maps](https://maps.app.goo.gl/yWwKNdCiUB9J3bYx8)
+- TODO: confirm the 2026 venue name
+- TODO: confirm the 2026 venue address
+- TODO: add maps and directions links
