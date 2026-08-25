@@ -1,34 +1,39 @@
 ## Description
 
-The **Junior Conference on Wireless and Optical Communication (JWOC 2026)** is being prepared as a conference for **Master's students** and **early-stage PhD researchers** to present ongoing work in wireless and optical communication, networking, machine learning, security, and IoT.
+The **8th Junior Conference on Wireless and Optical Communications (JWOC 2026)** is a conference for **Master's students** and **early-stage PhD researchers** working on wireless and optical communications, machine learning, networking, security, or IoT.
 
-- **Edition:** TODO: confirm the 2026 edition number
-- **Date and Location:** TODO: confirm the 2026 conference date and venue
+**Join us and present your work at the JWOC conference!**
+
+- **Date:** 2 October 2026
+- **Location:** TODO: confirm the 2026 venue
 - **Registration:** TODO: add the 2026 registration link and deadline
 - **Program:** [here]({{ "/program/" | relative_url }})
 
-We invite **second-year Master's students** and **first/second-year PhD students** from UPSaclay and IPP to submit extended abstracts and present their current research at JWOC 2026. Ongoing work with preliminary results is highly encouraged.
+JWOC offers a unique opportunity for students from **Université Paris-Saclay** and **Institut Polytechnique de Paris** to share their research findings in networking, wireless, and optical communications. It also represents an excellent opportunity to expand professional networking and enhance research presentation skills.
 
 **Topics of interest include (but are not limited to):**
-- 5G / 6G and Antenna Design
-- Communication and Information Theory
-- Green Communication and Network Virtualization
-- Internet of Things (IoT)
-- Machine Learning for Communication
-- Network Design and Monitoring
-- Optical and Wireless Communication
+- Optical and Wireless Communications
 - Quantum Communications
-- Secure Communication
+- Machine Learning for Communications
+- Network Design and Monitoring
+- Secure Communications
 - Source and Channel Coding
+- Internet of Things
+- 5G/6G
+- Communication Theory
+- Network Virtualization
+- Green Communications
+- Antennas/Propagation
+- Other related topics
 
 ---
 
 ## Important Dates
 
-- Submission Deadline: TODO
-- Notification to authors: TODO
+- Paper Submission: 25 August 2026
+- Acceptance Notification: 11 September 2026
 - Registration Deadline: TODO
-- **Conference:** TODO
+- **Conference:** 2 October 2026
 - Location: TODO
 
 _All deadlines are 23:59 AoE (UTC-12)._
@@ -47,10 +52,24 @@ More information about the speakers is available [here]({{ "/speakers/" | relati
 ## Organisation Committee
 
 ### Junior Committee
-- TODO: add confirmed 2026 junior committee members
+**Télécom Paris**
+- Shuangning Li
+- Jeanne Lucas
+- Jan Viatteau
+
+**Université Paris-Saclay**
+- Hossein Atrsaei
+- Zakaria Taleb
 
 ### Senior Committee
-- TODO: add confirmed 2026 senior committee members
+**Télécom Paris**
+- Juan Rafael Alvarez
+- Shanshan Wang
+
+**Université Paris-Saclay**
+- Quang-Trung Luu
+- Marwane Rezzouki
+- Julien Signoles
 
 ### Local Arrangement
-- TODO: add confirmed 2026 local arrangement contacts
+- Marie Laveau, UPS

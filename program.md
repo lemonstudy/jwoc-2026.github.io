@@ -5,9 +5,9 @@ description: JWOC 2026
 permalink: /program/
 ---
 
-### Program (TODO) — JWOC 2026
+### Program (TODO) - 2 October 2026
 
-The 2026 program is being prepared.
+The JWOC 2026 program for 2 October 2026 is being prepared.
 
 **Morning**
 
@@ -15,7 +15,6 @@ The 2026 program is being prepared.
 - **TODO:** Opening and welcome remarks
 - **TODO:** Morning keynote speaker, talk title, and abstract link
 - **TODO:** Morning technical session speakers and presentation titles
-
 - **TODO:** Lunch
 
 **Afternoon**

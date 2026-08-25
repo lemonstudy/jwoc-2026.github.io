@@ -8,10 +8,24 @@ permalink: /organisation/
 ## Organisation Committee
 
 ### Junior Committee
-- TODO: add confirmed 2026 junior committee members
+**Télécom Paris**
+- Shuangning Li
+- Jeanne Lucas
+- Jan Viatteau
+
+**Université Paris-Saclay**
+- Hossein Atrsaei
+- Zakaria Taleb
 
 ### Senior Committee
-- TODO: add confirmed 2026 senior committee members
+**Télécom Paris**
+- Juan Rafael Alvarez
+- Shanshan Wang
+
+**Université Paris-Saclay**
+- Quang-Trung Luu
+- Marwane Rezzouki
+- Julien Signoles
 
 ### Local Arrangement
-- TODO: add confirmed 2026 local arrangement contacts
+- Marie Laveau, UPS
