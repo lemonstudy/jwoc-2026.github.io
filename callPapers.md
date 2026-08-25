@@ -25,4 +25,4 @@ JWOC offers a unique opportunity for students from Université Paris-Saclay and 
 
 Submissions are in English, in the form of an extended abstract describing new or preliminary results of the authors' scientific work, up to 3 pages including an abstract, a list of keywords, and references. They must be in PDF and adopt the style of the IEEE Publications format. The extended abstracts will be reviewed by the senior and junior program committees.
 
-Click [here](https://openreview.net/group?id=JWOC/2026/Conference) to submit a paper.
+Submit papers via [OpenReview](https://openreview.net/group?id=JWOC/2026/Conference).
