@@ -42,8 +42,8 @@ _Times are shown in the time zone stated for each deadline._
 
 ## Keynotes
 
-- To be scheduled soon
-- To be scheduled soon
+- **Alix Jeannerot** (Nokia Bell Labs, France): AI-RAN: From the Physical Layer to the Control Layer
+- **Lina Mroueh** (ISEP, France): Beyond Connectivity: AI, Edge, and the Future of IoT Networks
 
 More information about the speakers is available [here]({{ "/speakers/" | relative_url }}).
 
