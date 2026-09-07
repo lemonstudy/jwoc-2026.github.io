@@ -56,9 +56,9 @@ More information about the speakers is available [here]({{ "/speakers/" | relati
 - Shuangning Li
 - Jeanne Lucas
 - Jan Viatteau
+- Hossein Atrsaei
 
 **Université Paris-Saclay**
-- Hossein Atrsaei
 - Zakaria Taleb
 
 ### Senior Committee

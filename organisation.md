@@ -12,9 +12,9 @@ permalink: /organisation/
 - Shuangning Li
 - Jeanne Lucas
 - Jan Viatteau
+- Hossein Atrsaei
 
 **Université Paris-Saclay**
-- Hossein Atrsaei
 - Zakaria Taleb
 
 ### Senior Committee
